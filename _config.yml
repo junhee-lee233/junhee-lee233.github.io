@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "이준희"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "합스 16기 짱짱 8반 학생"
   location         : "대한민국, 경기도"
   email            : "21-20821@hafs.hs.kr"
