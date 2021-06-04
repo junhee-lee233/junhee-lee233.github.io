@@ -1,0 +1,7 @@
+cbuZfY2S2UQ&t=1410s
+
+---
+layout: single
+title: "유튜브 동영상 삽입하기" 
+---
+{% include video id="cbuZfY2S2UQ&t=1410s" provider="youtube" %}
